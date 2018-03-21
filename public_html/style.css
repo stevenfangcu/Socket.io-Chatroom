@@ -1,0 +1,24 @@
+
+#inputText, #chatLog{
+    border: solid 1px black;
+    width: 75%;
+}
+#chatLog{
+    height: 200px;
+}
+#userTracker{
+	border: solid 1px black;
+	height: 100%;
+	float: right;
+    width: 24%;
+    height: 225px;
+    background-color: white;
+}
+#firstBody{
+
+}
+.blocked{
+    text-decoration: line-through;
+}
+body{
+}
